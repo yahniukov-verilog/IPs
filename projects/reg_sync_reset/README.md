@@ -1,0 +1,1 @@
+# Parallel register with custom data width and synchronize reset
