@@ -1,0 +1,1 @@
+# D-flip-flop with asynchronize reset (clear) and separate input data when clear
