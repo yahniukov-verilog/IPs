@@ -1,0 +1,1 @@
+# Counter with asynchronize reset (clear), custom data width and separate input data when clear
